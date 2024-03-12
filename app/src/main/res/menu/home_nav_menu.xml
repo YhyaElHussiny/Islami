@@ -12,12 +12,12 @@
         android:icon="@drawable/sebha_blue"
         />
     <item
-        android:id="@+id/quran"
+        android:id="@+id/nav_quran"
         android:title="quran"
         android:icon="@drawable/moshaff"
         />
     <item
-        android:id="@+id/radio"
+        android:id="@+id/nav_radio"
         android:title="radio"
         android:icon="@drawable/radio_blue"/>
 
